@@ -1,2 +1,2 @@
-# nginx-compose
+# nginx compose
 nginx compose
